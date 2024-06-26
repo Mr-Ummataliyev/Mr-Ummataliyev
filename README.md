@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+👋;I+am+MrUmmataliyev👨‍💻 + This is my second account&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+👋;I+am+MrUmmataliyev👨‍💻&center=true&size=30">
   </a>
 
 </h1>
@@ -17,17 +17,17 @@
 <p>
   <div>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source" align="left">
-      <img align="left" width=380 src="https://github-readme-streak-stats.herokuapp.com/?user=MrUmmataliyev&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+      <img align="left" width=380 src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Ummataliyev&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source" align="left">
-      <img width=380 src="https://github-readme-stats.vercel.app/api?username=MrUmmataliyev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img width=380 src="https://github-readme-stats.vercel.app/api?username=Mr-Ummataliyev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
-    <img width=380 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrUmmataliyev&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    <img width=380 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Ummataliyev&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   </div>
 <div align="right">
   <h3 align="right"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=300&height=70&duration=4000&lines=Profile+views">
 </h3>
-  <img src="https://profile-counter.glitch.me/MrUmmataliyev/count.svg?" width="300" />
+  <img src="https://profile-counter.glitch.me/Mr-Ummataliyev/count.svg?" width="300" />
 </div>
 
   <br>
@@ -42,6 +42,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="22" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="22" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="c logo"  />
   <img width="22" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
 </div>
