@@ -1,9 +1,18 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+👋;I+am+MrUmmataliyev👨‍💻&center=true&size=30">
-  </a>
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=MUHAMMADABDULLOH%20UMMATALIYEV%20&desc=FULL%20STACK%20.NET%20DEVELOPER&animation=fadeIn&fontSize=20&fontAlign=74&fontAlignY=38&descAlign=77&color=d0b0ff)
 
-</h1>
+
+<h3 align="center">
+    Welcome to Muhammadabdulloh's profile!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<!--ANIMATED WELCOME TEXT -->
+<p align="center">
+    <a href="https://github.com/MuhammadAbdulloh/readme-typing-svg">
+        <img
+                src="https://readme-typing-svg.herokuapp.com/?lines=.Net%20Developer;More%20than%201+%20year%20of%20experience;Always%20learning%20new%20things;%20A%20Self-confidence%20and%20self-motivated&center=true&width=420&height=45"></a>
+</p>
+
 
 <h1 align="center">
   <a href="https://github.com/MrUmmataliyev">Click to go my old account</a>
